@@ -2,7 +2,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ## Demo
 ![photo of my website](./public/images/demo.png)
-You can visit my website [here](https://blaszczykkajetan.github.io/currency-converter-react/)
+You can visit my website [here](https://blaszczykkajetan.github.io/currency-conventer-react/)
 ## Description
 Simple currency converter that converts from EUR, USD, GBP to PLN.
 
